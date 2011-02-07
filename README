@@ -1,0 +1,5 @@
+The Stochastic Tabulation Engine and Pairing Helper. Used to simulate outcomes
+of various American Mock Trial Association tournament pairing schemes to
+evaluate their fairness. Can also be used to double-check pairing results for
+real tournaments (in practice this seems to be more time-consuming than it's
+worth).
